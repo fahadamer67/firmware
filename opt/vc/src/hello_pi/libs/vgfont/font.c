@@ -52,6 +52,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/types.h>
+#include "utf8.h"
 
 #include "graphics_x_private.h"
 #include "vgft.h"
